@@ -8,8 +8,8 @@
 |-----| -------| ------|
 |10:00 ~ 10:05 | 교육안내 | 박용욱 교수 |
 |10:05 ~ 10:15 | Tencent 소개 | Tencent |
-|10:15 ~ 10:45 | Cloud Computing 의 이해 | Henry Trainer |
-|10:45 ~ 11:15 | Cloud 주요 서비스 이해 | Henry Trainer |
+|10:15 ~ 10:45 | Cloud Computing의 이해 | Henry Trainer |
+|10:45 ~ 11:15 | Cloud Computing의 주요 서비스 이해 | Henry Trainer |
 |11:15 ~ 11:30 | Break Time | - |
 |11:30 ~ 13:00 | Tencent Cloud Lab | Henry Trainer |
 |13:00 ~ 13:10 | Megazone Cloud 및 훈련과정 소개 | 김건아팀장, 신중진이사 |
